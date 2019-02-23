@@ -46,4 +46,10 @@
     <theme name="Black And YellO" accent="org.omnirom.theme.accent.goldenshower"
            thumbnail="thumbnail_black_yellow.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.black"/>
+    <theme name="Teal Meal" accent="org.omnirom.theme.accent.teal"
+           thumbnail="thumbnail_teal_meal.png" notification="org.omnirom.theme.notification.primary"
+           primary="org.omnirom.theme.primary.tealmeal"/>
+    <theme name="Violator" accent="org.omnirom.theme.accent.bluemonday"
+           thumbnail="thumbnail_violator.png" notification="org.omnirom.theme.notification.primary"
+           primary="org.omnirom.theme.primary.violator"/>
 </themes>
