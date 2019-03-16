@@ -31,7 +31,7 @@
     <theme name="From Hell" accent="org.omnirom.theme.accent.fromhell"
            thumbnail="thumbnail_from_hell.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.almostblack"/>
-    <theme name="Darkness Meister" accent="org.omnirom.theme.accent.bluemonday"
+    <theme name="Darkness Meister" accent="org.omnirom.theme.accent.syberia"
            thumbnail="thumbnail_darkness_meister.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.darkblue"/>
     <theme name="Smoked Green" accent="org.omnirom.theme.accent.smokinggreen"
